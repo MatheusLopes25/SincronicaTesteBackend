@@ -9,7 +9,7 @@
 
 # Instalação da API 
 
-## após baixar um projeto Laravel
+## após baixar o projeto 
 
 1 - Instalar as dependências do PHP com o Composer: <br>
 Entre na Raiz do projeto 
