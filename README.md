@@ -38,7 +38,7 @@ Edite o arquivo .env com os dados do seu banco (host, nome do banco, usuário, s
 5 - Rodar as migrations (se o projeto usar banco de dados):
 
 ~~~sh
-php artisan migrate
+php artisan migrate --seed
 ~~~
 
 6 - Iniciar o servidor local:
