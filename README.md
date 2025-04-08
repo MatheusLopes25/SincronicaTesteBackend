@@ -47,4 +47,4 @@ php artisan migrate --seed
 ~~~
 
 ### Use a Collection deixada na raiz desse projeto para fazer os testes a api.
-
+<a href="https://github.com/MatheusLopes25/SincronicaTesteBackend/blob/main/API_BACKEND_LARAVEL.postman_collection.json"> Collection API </a>
